@@ -1,2 +1,1 @@
-# micorservicio1Catalogo--Acceso-catalogo
-Devuelve la lista completa de contenido disponible, con opciones para filtrar por categoría, género, idioma o región (nacional/internacional).
+Gestiona el contenido multimedia disponible a través de una serie de etiquetas que se le asignan a las películas, con esto se puedo consultar de manera eficiente las películas disponibles para el usuario.
